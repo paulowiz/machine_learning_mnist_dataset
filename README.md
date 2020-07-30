@@ -1,4 +1,4 @@
-## 📚  Descrição 
+## 📚  Description 
 
 Traning a machine learning to recognize numbers(0-9) from images 28x28.
 
